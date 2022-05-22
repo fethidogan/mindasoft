@@ -1,0 +1,481 @@
+.headingcontainer{
+    margin-top: 170px;
+    padding-right: 90px;
+  }
+  
+.headone{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 65px;
+    margin-left: 25px;
+    color: rgb(47, 47, 47);
+    text-shadow:0px 0px 0.8px rgba(49, 49, 49, 0.9)
+}
+  
+.headtwo{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    margin-left: 25px;
+    line-height: 30px;
+    color: rgb(47, 47, 47);
+}
+
+.designimages{
+  margin-top: 10px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 20px;
+  color: rgb(47, 47, 47);
+}
+
+.headingbutton{
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-left: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 43px;
+    padding-right: 43px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    letter-spacing: 1.3px;
+}
+
+.ioscontainer{
+    background-image: linear-gradient(
+    180deg,
+    hsl(0deg 0% 100%) 0%,
+    hsl(218deg 100% 100%) 12%,
+    hsl(218deg 100% 99%) 23%,
+    hsl(218deg 100% 99%) 33%,
+    hsl(218deg 100% 98%) 42%,
+    hsl(218deg 100% 98%) 50%,
+    hsl(218deg 100% 97%) 57%,
+    hsl(218deg 100% 97%) 71%,
+    hsl(218deg 100% 96%) 100%
+    );
+    padding-top: 190px;
+    padding-bottom: 10px;
+}
+
+/* healthcare  */
+.healthcarecontainer{
+    background-color: #d7f5dd;
+    padding-top: 150px;
+    padding-bottom: 10px;
+}
+
+/* logisctics */
+.logisticcontainer{
+    background-color: #c5eaff;
+    padding-top: 150px;
+    padding-bottom: 10px;
+}
+
+/* financial */
+.financialcontainer{
+    background-color: #53da8b;
+    padding-top: 150px;
+    padding-bottom: 10px;
+}
+
+/* retail */
+.ecommercecontainer{
+    background-color: #ffe8ff;
+    padding-top: 150px;
+    padding-bottom: 10px;
+}
+
+/* travel */
+.travelcontainer{
+    background-color: #fffde8;
+    padding-top: 150px;
+    padding-bottom: 10px;
+}
+
+/* education */
+.educationcontainer{
+    background-color: #f3e9ff;
+    padding-top: 150px;
+    padding-bottom: 10px;
+}
+
+
+.headservicecontainer{
+    padding-top: 150px;
+}
+
+.serviceparatext{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    margin-right: 25px;
+    line-height: 30px;
+    color: rgb(47, 47, 47);
+}
+
+.serviceshead{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 23px;
+    margin-right: 25px;
+    line-height: 30px;
+    color: rgb(146, 146, 146);
+}
+
+.industryheader{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    text-align: center;
+    font-weight: 500;
+    margin-top: 100px;
+    color: #2b70f0;
+}
+
+.industrypara{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    font-weight: 500;
+    color: rgb(88, 88, 88);
+}
+
+.industryparalong{
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+    text-align: start;
+    font-weight: 400;
+    color: rgb(88, 88, 88);
+}
+
+/* MVP two side text */
+.mvptwosidesubheading{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 25px;
+  color:#363636;
+}
+
+.mvptwosideheader{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+  font-size: 45px;
+  color:#363636;
+}
+
+.mvptwosidelongpara{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  font-size: 19px;
+  color:#363636;
+}
+
+/* Healtcare page */
+.healthcaretwosideheader{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 55px;
+  color:#363636;
+}
+
+/* Center blue */
+.wespecialized{
+    margin-top: 130px;
+    height: 450px;
+    max-height: 900px;
+    overflow: hidden;
+    background-image: url("/images/ios-app-background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.wespecializedandroid{
+    margin-top: 130px;
+    height: 450px;
+    max-height: 900px;
+    overflow: hidden;
+    background-image: url("/images/android-app-cover.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.wespecializedcross{
+    margin-top: 130px;
+    height: 450px;
+    max-height: 900px;
+    overflow: hidden;
+    background-image: url("/images/ios-background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+  
+.specializedheading{
+    padding-top: 50px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 75px;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0 1.4px black, 0 0 1.4px black, 0 0 1.4px black, 0 0 1.4px black, 0 0 1.4px black, 0 0 1.4px black, 0 0 1.4px black, 0 0 1.4px black, 0 0 1.4px black, 0 0 1.4px black, 0 0 1.4px black, 0 0 1.4px black, 0 0 1.4px black, 0 0 1.4px black, 0 0 1.4px black, 0 0 1.4px black, 0 0 1.4px black, 0 0 1.4px black, 0 0 1.4px black, 0 0 1.4px black;
+}
+  
+.specializedsubheading{
+    margin-top: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0 1.1px black, 0 0 1.1px black, 0 0 1.1px black, 0 0 1.1px black, 0 0 1.1px black, 0 0 1.1px black, 0 0 1.1px black, 0 0 1.1px black, 0 0 1.1px black, 0 0 1.1px black, 0 0 1.1px black, 0 0 1.1px black, 0 0 1.1px black, 0 0 1.1px black, 0 0 1.1px black, 0 0 1.1px black, 0 0 1.1px black, 0 0 1.1px black, 0 0 1.1px black, 0 0 1.1px black;
+}
+  
+.overflowimage{
+    margin-top: 35px;
+    box-shadow: 0px 0px 5px #dddddd;
+    border-radius: 52px;
+}
+
+/* Description */
+
+.descheader{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    text-align: start;
+    font-weight: 600;
+    color: rgb(88, 88, 88);
+}
+
+
+/* middle get in touch */
+
+.middleblue{
+    margin-top: 130px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    background-color: #2b70f0;
+}
+
+.centerblueheading{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 200;
+    font-size: 30px;
+    text-align: start;
+    color: rgb(242, 242, 242);
+}
+
+.bluesidebutton{
+    border-radius: 30px;
+    margin-top: -5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 43px;
+    padding-right: 43px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    font-size: 22px;
+    letter-spacing: 1.3px;
+    color: #4d4d4d;
+    background-color: #ffffff;
+}
+
+/* Questions */
+
+.appdevservices{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 400;
+    text-align: center;
+    font-size: 45px;
+    color: rgb(54, 54, 54);
+    margin-top: 100px;
+    margin-bottom: 20px;
+  }
+  
+.appdevsevcontainer{
+    margin-bottom: 50px;
+  }
+  
+.appdevservtitles{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color:#363636;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+.appdevservtitlesblue{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    color:#0047ca;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    border-radius: 20px;
+    background-color: #f3f3f3c7;
+  }
+  
+.appdevservtitles:hover{
+    color:#0047ca
+  }
+  
+.appdevservpara{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color:#363636;
+    line-height: 30px;
+  }
+
+/*  Bottom side Picture */
+
+.bottomsideheading{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    color:#363636;
+    line-height: 38px;
+}
+
+.bottomsidepara{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #363636;
+}
+
+/* Case studie kopya */
+.casestudies{
+    margin-top: 150px;
+    margin-left: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 55px;
+    color: rgb(47, 47, 47);
+  }
+  
+  .casestudiescontainer{
+    margin-bottom: 100px;
+    margin-top: 100px;
+  }
+  
+  .casestudiesrightindustry{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    color: #4586ff;
+    margin-bottom: 40px;
+  }
+  
+  .casestudiesrighttitle{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+    color: rgb(47, 47, 47);
+    margin-bottom: 15px;
+  }
+  
+  .casestudiesrightcountry{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 21px;
+    color: rgb(47, 47, 47);
+    margin-bottom: 15px;
+  }
+  
+  .casestudiesrightpara{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: rgb(47, 47, 47);
+    margin-bottom: 15px;
+  }
+  
+  .casestudiesrightcountrytext{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: rgb(47, 47, 47);
+  }
+  
+  .casestudiesimage{
+    border-radius: 18px;
+  }
+
+@media only screen and (max-width: 990px) {
+  .iosimage{
+    display: none;
+  }
+  .ioscontainer{
+    padding-top: 90px;
+  }
+  .headservicecontainer{
+    padding-top: 40px;
+  }
+  .specializedheading{
+    font-size: 55px;
+  }
+  .wespecialized{
+    height: 480px;
+  }
+  .centerblueheading{
+    text-align: center;
+  }
+  .bluesidebutton{
+    margin-top: 20px;
+  }
+  .questionsmobile{
+    margin-top: -50px;
+  }
+  .androidbottomimage{
+    width: 330px;
+    height: 240px;
+  }
+  .headone{
+    font-size: 35px;
+  }
+
+  .crosstechimage{
+    width: 340px;
+    height: 230px;
+  }
+
+  .webappbenefitsimage{
+    display: none;
+  }
+
+  .webapptechnologiesimage{
+    width: 340px;
+    height: 250px;
+  }
+
+  .webtechimage{
+    width: 300px;
+    height: 230px;
+  }
+
+  .casestudiesimage{
+    width: 330px;
+    height: 230px;
+  }
+
+  .healthcaretwosideheader{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    color:#363636;
+  }
+
+  .mvptwosideheader{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    color:#363636;
+  }
+}

@@ -1,0 +1,195 @@
+.casestudies{
+    margin-top: 150px;
+    margin-left: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 55px;
+    color: rgb(47, 47, 47);
+}
+  
+.casestudiescontainer{
+    padding-bottom: 50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    cursor: pointer;
+}
+  
+.casestudiescontainer:hover{
+    background-color: #bbbbbb23;
+    border-radius: 30px;
+    transition: background-color 0.3s ease-in-out;
+}
+  
+.casestudiesrightindustry{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    color: #4586ff;
+    margin-bottom: 20px;
+}
+  
+.casestudiesrighttitle{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 35px;
+    color: rgb(47, 47, 47);
+    margin-bottom: 15px;
+}
+
+.blogtoptitle{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 50px;
+    color: rgb(47, 47, 47);
+    margin-bottom: 15px;
+}
+
+.blogdetailstitle{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 50px;
+    color: rgb(47, 47, 47);
+    margin-bottom: 15px;
+}
+
+.casestudiesrighttitle:hover{
+    color: rgb(8, 66, 255);
+}
+  
+.casestudiesrightcountry{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 21px;
+    color: rgb(47, 47, 47);
+    margin-bottom: 15px;
+}
+  
+.casestudiesrightpara{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: rgb(47, 47, 47);
+    margin-bottom: 15px;
+}
+  
+.casestudiesrightcountrytext{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: rgb(47, 47, 47);
+}
+  
+.casestudiesimage{
+    border-radius: 18px;
+}
+
+.blogdetailparacontainer{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    margin-top: 50px;
+    line-height: 30px;
+    margin-right: 130px;
+}
+
+.blogdetailparacontainer a{
+    color: #0062d1;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.blogdetailparacontainer p, 
+.blogdetailparacontainer li, 
+.blogdetailparacontainer h2, 
+.blogdetailparacontainer h4{
+  cursor: default;
+}
+
+.blogdetailparacontainer h3{
+  font-size: 22px;
+  cursor: default;
+}
+
+.blogparacontainer{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 30px;
+    margin-right: 150px;
+}
+  
+.sharetext{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  margin-right: 0px;
+}
+
+.sharecontainer{
+  margin-top: 150px;
+}
+
+.blogmainleftcold{
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin-top: 20px;
+}
+
+.blogmainrightcold{
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: 20px;
+}
+
+@media only screen and (max-width: 900px) {
+  
+  .blogmainleftcold{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .blogmainrightcold{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    margin-top: 20px;
+  }
+  .blogdetailstitle{
+    font-size: 35px;
+  }
+
+  .casestudiesrightpara{
+    font-size: 15px;
+  }
+
+  .casestudiesrighttitle{
+    font-size: 25px;
+  }
+  .sharecontainer{
+    display: block;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    position: absolute;
+    margin-top: -115px;
+  }
+  .sharetext{
+    display: none;
+  }
+  .blogdetailparacontainer{
+    margin-right: 0px;
+  }
+  .casestudiesimage{
+    width: 250px;
+    height: 180px;
+  }
+}
+

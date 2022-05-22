@@ -1,0 +1,97 @@
+/* Portfolio Page */
+.portfoliocontainer{
+    margin-top: 130px;
+}
+
+.heading{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 55px;
+    color: rgb(73, 73, 73);
+    text-align: center;
+}
+
+.casestudies{
+    margin-top: 150px;
+    margin-left: 25px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 55px;
+    color: rgb(47, 47, 47);
+}
+  
+.casestudiescontainer{
+    padding-bottom: 50px;
+}
+  
+.casestudiescontainer:hover{
+    background-color: #bbbbbb23;
+    border-radius: 30px;
+    transition: background-color 0.3s ease-in-out;
+}
+  
+.casestudiesrightindustry{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    color: #4586ff;
+    margin-bottom: 50px;
+}
+  
+.casestudiesrighttitle{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+    color: rgb(47, 47, 47);
+    margin-bottom: 15px;
+}
+  
+.casestudiesrightcountry{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 21px;
+    color: rgb(47, 47, 47);
+    margin-bottom: 15px;
+}
+  
+.casestudiesrightpara{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: rgb(47, 47, 47);
+    margin-bottom: 15px;
+}
+  
+.casestudiesrightcountrytext{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    color: rgb(47, 47, 47);
+}
+  
+.casestudiesimage{
+    border-radius: 18px;
+}
+  
+.linkstext{
+    color: #e6e6e6;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.linkstext:hover{
+    color: #474747;
+
+}
+
+
+@media only screen and (max-width: 1200px) {
+    .casestudiesimage{
+        width: 300px;
+        height: 210px;
+    }
+
+}
